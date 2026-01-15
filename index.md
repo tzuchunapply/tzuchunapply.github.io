@@ -21,17 +21,20 @@ Mandarin, English
 
 ## EDUCATION
 
-| <img src="assets/img/University-of-Washington-Logo.jpg" width="40"/> | **University of Washington**, Seattle, WA  |
-|---|---|
-|  | Master of Science in Applied Chemical Science and Technology |
-|  | *Dec 2023* · GPA: 3.53 / 4.0 |
+<img src="assets/img/University-of-Washington-Logo.jpg" alt="UW" width="40" align="right"/>
+
+**University of Washington**, Seattle, WA  
+Master of Science in Applied Chemical Science and Technology  
+*Dec 2023*  
+GPA: 3.53 / 4.0  
 
 <br/>
 
-| <img src="assets/img/中山.png" width="40"/> | **National Sun Yat-sen University**, Kaohsiung, Taiwan |
-|---|---|
-|  | Bachelor of Science in Chemistry |
-|  | *Jun 2021* |
+<img src="assets/img/中山.png" alt="NSYSU" width="40" align="right"/>
+
+**National Sun Yat-sen University**, Kaohsiung, Taiwan  
+Bachelor of Science in Chemistry  
+*Jun 2021*
 
 ---
 
