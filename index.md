@@ -15,20 +15,23 @@ Analytical Chemistry, Quality Control (SPC), Six Sigma, UV-Vis Spectroscopy, Chr
 Problem-Solving, Adaptability, Quick Learning, Cross-functional Collaboration  
 
 **Languages**  
-Mandarin (Native), English (Fluent)
+Mandarin, English 
 
 ---
 
 ## EDUCATION
 
-**University of Washington**, Seattle, WA  
-Master of Science in Applied Chemical Science and Technology  
-*Dec 2023*  
-GPA: 3.53 / 4.0  
+| <img src="uw_logo.png" width="40"/> | **University of Washington**, Seattle, WA  |
+|---|---|
+|  | Master of Science in Applied Chemical Science and Technology |
+|  | *Dec 2023* · GPA: 3.53 / 4.0 |
 
-**National Sun Yat-sen University**, Kaohsiung, Taiwan  
-Bachelor of Science in Chemistry  
-*Jun 2021*
+<br/>
+
+| <img src="nsysu_logo.png" width="40"/> | **National Sun Yat-sen University**, Kaohsiung, Taiwan |
+|---|---|
+|  | Bachelor of Science in Chemistry |
+|  | *Jun 2021* |
 
 ---
 
@@ -37,9 +40,9 @@ Bachelor of Science in Chemistry
 ### Precision Analytical — McMinnville, OR  
 **Chemist** | *Nov 2024*
 
-- Quantified creatinine using UV-Vis spectroscopy to normalize urine concentration and performed replicate measurements for routine quality control. Used reference samples and statistical control limits (conceptually similar to SPC) to monitor variation and identify abnormal results, supporting efficient and consistent sample processing workflows.  
-- Applied Six Sigma methodology to investigate significant deviation in patient urine creatinine measurements; analyzed potential causes including sample handling, reagent preparation, and laboratory environment, identified elevated temperature as the primary factor affecting reaction kinetics, implemented SOP improvements to standardize temperature equilibration prior to UV-Vis analysis, and restored consistent measurement performance.  
-- Operated the Lynx automated liquid dispensing system and C18 column-based extraction process for high-throughput hormone analysis (androgen, estrogen, progesterone), strictly adhering to SOPs to ensure process repeatability and data consistency across urine and saliva samples.  
+- Quantified creatinine using UV-Vis spectroscopy to normalize urine concentration and performed replicate measurements for routine quality control. Used reference samples and **statistical control limits** (conceptually similar to SPC) to monitor variation and identify abnormal results, supporting efficient and consistent sample processing workflows.  
+- Applied **Six Sigma** methodology to investigate significant deviation in patient urine creatinine measurements; analyzed potential causes including sample handling, reagent preparation, and laboratory environment, identified elevated temperature as the primary factor affecting reaction kinetics, implemented SOP improvements to standardize temperature equilibration prior to UV-Vis analysis, and restored consistent measurement performance.  
+- Operated the Lynx automated liquid dispensing system and C18 column-based extraction process for high-throughput hormone analysis (androgen, estrogen, progesterone), strictly adhering to **SOPs** to ensure process repeatability and data consistency across urine and saliva samples.  
 - Performed methanol recycling to reduce chemical waste and operational costs.
 
 ---
