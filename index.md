@@ -1,123 +1,59 @@
+# Tzu-Chun Huang
+
+**Email:** tzuchunapply@gmail.com  
+**Phone:** +886 989 831 733  
+**LinkedIn:** (https://www.linkedin.com/in/tzuchun-huang)
+
 ---
-layout: default
+
+## SKILLS
+
+**Technical Skills**  
+Analytical Chemistry, Quality Control (SPC), Six Sigma, UV-Vis Spectroscopy, Chromatography, Machine Learning, Python, Lynx Automated Liquid Dispensing System, Octave, Microsoft Office  
+
+**Soft Skills**  
+Problem-Solving, Adaptability, Quick Learning, Cross-functional Collaboration  
+
+**Languages**  
+Mandarin (Native), English (Fluent)
+
 ---
 
-Text can be **bold**, _italic_, or ~~strikethrough~~.
+## EDUCATION
 
-[Link to another page](./another-page.html).
+**University of Washington**, Seattle, WA  
+Master of Science in Applied Chemical Science and Technology  
+*Dec 2023*  
+GPA: 3.53 / 4.0  
 
-There should be whitespace between paragraphs.
+**National Sun Yat-sen University**, Kaohsiung, Taiwan  
+Bachelor of Science in Chemistry  
+*Jun 2021*
 
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
+---
 
-# Header 1
+## WORK EXPERIENCE
 
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
+### Precision Analytical — McMinnville, OR  
+**Chemist** | *Nov 2024*
 
-## Header 2
+- Quantified creatinine using UV-Vis spectroscopy to normalize urine concentration and performed replicate measurements for routine quality control. Used reference samples and statistical control limits (conceptually similar to SPC) to monitor variation and identify abnormal results, supporting efficient and consistent sample processing workflows.  
+- Applied Six Sigma methodology to investigate significant deviation in patient urine creatinine measurements; analyzed potential causes including sample handling, reagent preparation, and laboratory environment, identified elevated temperature as the primary factor affecting reaction kinetics, implemented SOP improvements to standardize temperature equilibration prior to UV-Vis analysis, and restored consistent measurement performance.  
+- Operated the Lynx automated liquid dispensing system and C18 column-based extraction process for high-throughput hormone analysis (androgen, estrogen, progesterone), strictly adhering to SOPs to ensure process repeatability and data consistency across urine and saliva samples.  
+- Performed methanol recycling to reduce chemical waste and operational costs.
 
-> This is a blockquote following a header.
->
-> When something is important enough, you do it even if the odds are not in your favor.
+---
 
-### Header 3
+## COURSEWORK PROJECTS
 
-```js
-// Javascript code with syntax highlighting.
-var fun = function lang(l) {
-  dateformat.i18n = require('./lang/' + l)
-  return true;
-}
-```
+### Defect Identification and Classification Using YOLOv5 and Azure Machine Learning
+- Trained a defect detection and multiclass classification model using MoS₂ images, applying image preprocessing techniques to enhance defect visibility and reduce noise.  
+- Verified detected defects using intensity profile analysis and manual cross-checking to ensure practical validity.  
+- Evaluated model performance using precision and recall metrics to assess detection reliability.  
+- Awarded **1st place** in a hackathon for technical execution.
 
-```ruby
-# Ruby code with syntax highlighting
-GitHubPages::Dependencies.gems.each do |gem, version|
-  s.add_dependency(gem, "= #{version}")
-end
-```
+### Design Project: Quorum Sensing Behavior Observation
+- Designed a microfluidic device to test the hypothesis that quorum sensing behavior can be observed in small populations when confined within limited volumes.
 
-#### Header 4
-
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-
-##### Header 5
-
-1.  This is an ordered list following a header.
-2.  This is an ordered list following a header.
-3.  This is an ordered list following a header.
-
-###### Header 6
-
-| head1        | head two          | three |
-|:-------------|:------------------|:------|
-| ok           | good swedish fish | nice  |
-| out of stock | good and plenty   | nice  |
-| ok           | good `oreos`      | hmm   |
-| ok           | good `zoute` drop | yumm  |
-
-### There's a horizontal rule below this.
-
-* * *
-
-### Here is an unordered list:
-
-*   Item foo
-*   Item bar
-*   Item baz
-*   Item zip
-
-### And an ordered list:
-
-1.  Item one
-1.  Item two
-1.  Item three
-1.  Item four
-
-### And a nested list:
-
-- level 1 item
-  - level 2 item
-  - level 2 item
-    - level 3 item
-    - level 3 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-
-### Small image
-
-![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
-
-### Large image
-
-![Branching](https://guides.github.com/activities/hello-world/branching.png)
-
-
-### Definition lists can be used with HTML syntax.
-
-<dl>
-<dt>Name</dt>
-<dd>Godzilla</dd>
-<dt>Born</dt>
-<dd>1952</dd>
-<dt>Birthplace</dt>
-<dd>Japan</dd>
-<dt>Color</dt>
-<dd>Green</dd>
-</dl>
-
-```
-Long, single-line code blocks should not wrap. They should horizontally scroll if they are too long. This line should be long enough to demonstrate this.
-```
-
-```
-The final element.
-```
+### Machine Learning with Materials Project Database
+- Utilized machine learning techniques to predict crystalline structures based on key chemical properties.
