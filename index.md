@@ -2,7 +2,7 @@
 
 **Email:** tzuchunapply@gmail.com  
 **Phone:** +886 989 831 733  
-**LinkedIn:** (https://www.linkedin.com/in/tzuchun-huang)
+**LinkedIn:** [Link to another page](https://www.linkedin.com/in/tzuchun-huang)
 
 ---
 
