@@ -21,16 +21,14 @@ Mandarin, English
 
 ## EDUCATION
 
-| <img src="tzuchunapply.github.io/assets
-/img/University-of-Washington-Logo.jpg" width="40"/> | **University of Washington**, Seattle, WA  |
+| <img src="tzuchunapply.github.io/assets/img/University-of-Washington-Logo.jpg" width="40"/> | **University of Washington**, Seattle, WA  |
 |---|---|
 |  | Master of Science in Applied Chemical Science and Technology |
 |  | *Dec 2023* · GPA: 3.53 / 4.0 |
 
 <br/>
 
-| <img src="tzuchunapply.github.io/assets
-/img/中山.png" width="40"/> | **National Sun Yat-sen University**, Kaohsiung, Taiwan |
+| <img src="tzuchunapply.github.io/assets/img/中山.png" width="40"/> | **National Sun Yat-sen University**, Kaohsiung, Taiwan |
 |---|---|
 |  | Bachelor of Science in Chemistry |
 |  | *Jun 2021* |
